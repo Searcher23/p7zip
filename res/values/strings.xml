@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">p7zip_15_14</string>
+    <string-array name="private_je_devices" translatable="false"></string-array>
+    
+    <string name="key_internal_uri_extsdcard" translatable="false">key_internal_uri_extsdcard</string>
+</resources>
